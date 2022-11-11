@@ -14,5 +14,21 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+Route::get('/praias', function () {
+    return view('praias');
+})->name('praias');
+
+Route::get('/cadastro', function () {
+    return view('cadastro');
+})->name('cadastro');
+
+Route::get('/caronas', function () {
+    return view('caronas');
+})->name('caronas');
+
+Route::get('/saida', function () {
+    return view('saida');
+})->name('saida');
