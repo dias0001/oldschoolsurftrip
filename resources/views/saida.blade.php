@@ -35,7 +35,7 @@
         <div id="main-container">
             <!-- banner lateral -->
             <div id="banner-container" class="m">
-                <img src="imagem/woman.jpg" alt="">
+                <img src="/imagem/woman.jpg" alt="">
             </div>
             <!-- formulário de login -->
             <div id="form-container">

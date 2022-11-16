@@ -32,3 +32,4 @@ Route::get('/procurar', function () {
 Route::get('/saida', function () {
     return view('saida');
 })->name('saida');
+
