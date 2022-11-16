@@ -33,3 +33,5 @@ Route::get('/saida', function () {
     return view('saida');
 })->name('saida');
 
+
+
