@@ -155,21 +155,22 @@
     </section>
   </main>
 
-  <!-- place footer here -->
-  <footer class="site-footer position-absolute bottom-0 col-12">
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <h6 class="text-warning text-center">SOBRE</h6>
-          <p class=" text-warning text-center"><i>OLD SCHOOL SUR TRIP</i></p>
+   <!-- place footer here -->
+   <footer class="site-footer bottom-0 col-12">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h6 class="text-warning text-center">SOBRE</h6>
+                    <p class=" text-warning text-center"><i>OLD SCHOOL SUR TRIP</i></p>
+                </div>
+            </div>
+            <hr>
         </div>
-      </div>
-      <hr>
-    </div>
-    <div class="container">
-      <p class="copyright-text text-center text-warning">old school surf trip &copy; 2022 - Desenvolvido por Dias0001</p>
-    </div>
-  </footer>
+        <div class="container">
+            <p class="copyright-text text-center text-warning">old school surf trip &copy; 2022 - Desenvolvido por
+                Dias0001</p>
+        </div>
+    </footer>
 
   <!-- Bootstrap JavaScript Libraries -->
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">

@@ -32,7 +32,7 @@ text-warning
   <main>
 
     <h1 class="text-center text-warning">Área de membros</h1>
-    <section class="container column">
+    <section class="container column mb-4">
       <form action="">
         <div class="mb-3  text-warning">
           <label for="nome" class="form-label">Nome</label>
@@ -66,7 +66,10 @@ text-warning
           <label for="cidade" class="form-label">Cidade</label>
           <input type="text" class="form-control" name="cidade" id="" placeholder="Digite sua Cidade">
         </div>
-        <button type="submit" class="btn btn-primary ">Enviar</button>
+
+        <div class="d-flex justify-content-center ">
+          <button type="submit" class="btn btn-primary  ">Enviar</button>
+        </div>
       </form>
     </section>
   </main>

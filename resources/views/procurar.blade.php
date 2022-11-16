@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 
 <head>
-    <title>oferecer carona</title>
+    <title>procurar</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -31,7 +31,7 @@
     </header>
 
     <main>
-        <h1 class="text-warning text-center mt-5">De onde você vai sair?</h1>
+        <h1 class="text-warning text-center mt-5">Para onde você quer ir?</h1>
         <div id="main-container">
             <!-- banner lateral -->
             <div id="banner-container" class="m">

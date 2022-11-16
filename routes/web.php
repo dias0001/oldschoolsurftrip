@@ -25,9 +25,9 @@ Route::get('/cadastro', function () {
     return view('cadastro');
 })->name('cadastro');
 
-Route::get('/caronas', function () {
-    return view('caronas');
-})->name('caronas');
+Route::get('/procurar', function () {
+    return view('procurar');
+})->name('procurar');
 
 Route::get('/saida', function () {
     return view('saida');
